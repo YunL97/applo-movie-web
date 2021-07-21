@@ -1,1 +1,2 @@
 npx create-react-app apollo-movie-web
+npm install styled-components react-router-dom @apollo/client graphql
